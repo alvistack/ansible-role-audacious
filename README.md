@@ -1,6 +1,6 @@
 # Ansible Role for Audacious
 
-[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-audacious.svg)](https://travis-ci.com/alvistack/ansible-role-audacious)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-audacious/master)](https://gitlab.com/alvistack/ansible-role-audacious/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.audacious-blue.svg)](https://galaxy.ansible.com/alvistack/audacious)
