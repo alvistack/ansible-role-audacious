@@ -1,6 +1,6 @@
 # Ansible Role for Audacious
 
-[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-audacious.svg)](https://travis-ci.com/alvistack/ansible-role-audacious)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-audacious/master)](https://gitlab.com/alvistack/ansible-role-audacious/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.audacious-blue.svg)](https://galaxy.ansible.com/alvistack/audacious)
@@ -13,11 +13,11 @@ This role require Ansible 2.10 or higher.
 
 This role was designed for:
 
-  - Ubuntu 18.04/20.04
+  - Ubuntu 18.04/20.04/20.10
   - RHEL/CentOS 7/8
   - openSUSE Leap 15.2
   - Debian 10
-  - Fedora 32
+  - Fedora 33
 
 ## Role Variables
 
