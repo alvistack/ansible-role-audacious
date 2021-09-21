@@ -1,5 +1,7 @@
 # Ansible Role for Audacious
 
+<img src="/alvistack.svg" width="75" alt="AlviStack">
+
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-audacious/master)](https://gitlab.com/alvistack/ansible-role-audacious/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-audacious.svg)](https://github.com/alvistack/ansible-role-audacious/blob/master/LICENSE)
