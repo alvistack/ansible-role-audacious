@@ -22,7 +22,7 @@ _apt_key:
 
 _apt_repository:
   - filename: "ubuntuhandbook1"
-    repo: "deb http://ppa.launchpad.net/ubuntuhandbook1/apps/ubuntu hirsute main"
+    repo: "deb http://ppa.launchpad.net/ubuntuhandbook1/apps/ubuntu impish main"
     state: "present"
 
 _apt:
