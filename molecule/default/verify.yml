@@ -19,8 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: audacious --version
+    - name: flatpak info org.atheme.audacious
       ansible.builtin.command:
-        cmd: audacious --version
+        cmd: flatpak info org.atheme.audacious
       register: result
       changed_when: result is not succeeded
